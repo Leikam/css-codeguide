@@ -236,7 +236,7 @@ Core methodology principles are based on [BEM](https://en.bem.info/). It consist
 .module-name {}
 .module-name_child {}
 .module-name_child_child-of-child {}
-.module-name_child__modifier {}
+.module-name_child.__modifier {}
 ```
 
 
